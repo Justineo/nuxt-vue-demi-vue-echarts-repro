@@ -15,6 +15,6 @@
   "devDependencies": {
     "@vue/composition-api": "^1.0.5",
     "echarts": "^5.1.2",
-    "vue-echarts": "^6.0.0"
+    "vue-echarts": "^8.0.0"
   }
 }
